@@ -4,5 +4,6 @@ This is a simple hello world server built on docker using busy box and go. It's 
 ```
 make
 make run
-<open web browser to http://localhost:9001>
 ```
+
+open web browser to http://localhost:9001
